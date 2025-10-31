@@ -90,7 +90,7 @@ This section is for documenting the bot's functionality and performance.
 
 A video demonstration is the best way to showcase the real-time interaction with the bot on Telegram.
 
-C:\Users\sruth\OneDrive\Desktop\projects\vids_aimer\telegram_bot.mp4
+https://drive.google.com/file/d/1oyO-juhgrVCUjgm-T9kJpdN4QAzAXDJK/view?usp=sharing
 
 <img width="1383" height="846" alt="image" src="https://github.com/user-attachments/assets/8c30138b-0687-4e96-a9f0-4250569e1c9e" />
 <img width="934" height="874" alt="image" src="https://github.com/user-attachments/assets/dec57a49-bff4-4d3c-98ac-d5e2cda69969" />
